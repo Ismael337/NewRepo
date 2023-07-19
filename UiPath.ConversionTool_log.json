@@ -1,0 +1,30 @@
+{
+  "GlobalStatistics": {
+    "BrowserTypeChangeCount": 1,
+    "ActivityTypes": {
+      "ui:OpenBrowser": 1
+    }
+  },
+  "FileChanges": [
+    {
+      "FilePath": "Main.xaml",
+      "Statistics": {
+        "BrowserTypeChangeCount": 1,
+        "ActivityTypes": {
+          "ui:OpenBrowser": 1
+        }
+      },
+      "Changes": [
+        {
+          "Type": "BrowserType",
+          "ActivityType": "ui:OpenBrowser",
+          "DisplayName": "Open Browser",
+          "PropertyName": "BrowserType",
+          "Original": "Edge",
+          "Value": "Chrome"
+        }
+      ],
+      "Warnings": []
+    }
+  ]
+}
